@@ -66,13 +66,3 @@ The notebook uses the following data science techniques and visualizations:
 ```
 
 
-
-
-
-## 📄 License
-
-Refer to the Kaggle dataset and notebook page for data usage rights and licensing.
-
----
-
-Let me know if you'd like a `requirements.txt` or a badge section!
